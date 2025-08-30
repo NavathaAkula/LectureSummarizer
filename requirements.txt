@@ -1,7 +1,8 @@
-transformers
-torch
-gradio
-langchain
-ibm_watson_machine_learning
-huggingface-hub
-ffmpeg
+transformers==4.40.1
+torch==2.2.2
+gradio==4.16.0
+langchain==0.1.7
+ibm_watson_machine_learning==1.0.344
+huggingface-hub==0.21.4
+ffmpeg-python==0.2.0
+
